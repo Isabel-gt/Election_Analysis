@@ -1,2 +1,2 @@
 # Election_Analysis
-Using Python to make an election analysis
+Using Python to make an analysis of an election
